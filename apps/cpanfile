@@ -1,3 +1,0 @@
-requires 'File::Slurp::Tiny';
-requires 'Mojo::DOM';
-requires 'LWP::Simple';

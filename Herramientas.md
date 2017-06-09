@@ -10,8 +10,7 @@ Esta lista recopila las herramientas usadas en el campus tecnológico para crear
 * S4A/Visualino
 * Fritzing
 * Arduino IDE
-* Librería python-telegram-bot
-* Editores de vídeo libres: Kdenlive, OpenShot 
-* WoofJS
+* git
+
 
 
