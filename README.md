@@ -9,10 +9,10 @@ esa página.
 
 | Día | Objetivos |
 |-----| --------- |
-| [1](recursos/dia-1.md)   | Presentación. Conceptos básicos. Telegram. Conceptos de programación/interpretación usando baile/kata. Git |
-| [2](recursos/dia-3.md)   | Programación y Narrativa de juegos o animaciones con Scratch. |
-| [3](recursos/dia-6.md)   | Comienzo del trabajo en grupo. Diseño de proyectos |
-| [4](recursos/dia-9.md)   | Finalización del trabajo, presentación y cierre |
+| [1](recursos/dia-1.md) | Presentación. Conceptos básicos. Telegram. Interfaz web de GitHub. Markdown. Conceptos de programación/interpretación usando baile/kata. |
+| [2](recursos/dia-2.md) | Programación con Scratch. Un vistazo a Python|
+| [3] | Comienzo del trabajo en grupo. Diseño de proyectos. |
+| [4] | Finalización del trabajo, presentación y cierre. |
 
 
 # Quienes
